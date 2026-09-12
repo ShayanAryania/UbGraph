@@ -1,0 +1,8 @@
+model,meta_exists,seq_exists,res_exists,fusion_exists,feature_qc_exists,n_meta,n_pair_id_unique,n_pair_id_duplicates,n_label_1,n_label_0,n_E3,n_DUB,seq_shape,seq_nan,seq_inf,res_shape,res_nan,res_inf,fusion_shape,fusion_nan,fusion_inf,same_pair_order_as_reference,same_labels_as_reference,same_groups_as_reference,n_rows,seq_n_cols,seq_unique_cols,seq_duplicate_cols,res_n_cols,res_unique_cols,res_duplicate_cols,fusion_n_cols,fusion_unique_cols,fusion_duplicate_cols
+esm2_t6_8M_UR50D,True,True,True,True,True,6196,6196,0,3806,2390,4881,1315,"(6196, 1280)",0,0,"(6196, 96)",0,0,"(6196, 1376)",0,0,True,True,True,6196,1280,1280,0,96,96,0,1376,1376,0
+esm2_t12_35M_UR50D,True,True,True,True,True,6196,6196,0,3806,2390,4881,1315,"(6196, 1920)",0,0,"(6196, 96)",0,0,"(6196, 2016)",0,0,True,True,True,6196,1920,1920,0,96,96,0,2016,2016,0
+esm2_t30_150M_UR50D,True,True,True,True,True,6196,6196,0,3806,2390,4881,1315,"(6196, 2560)",0,0,"(6196, 96)",0,0,"(6196, 2656)",0,0,True,True,True,6196,2560,2560,0,96,96,0,2656,2656,0
+esm2_t33_650M_UR50D,True,True,True,True,True,6196,6196,0,3806,2390,4881,1315,"(6196, 5120)",0,0,"(6196, 96)",0,0,"(6196, 5216)",0,0,True,True,True,6196,5120,5120,0,96,96,0,5216,5216,0
+esm2_t36_3B_UR50D,True,True,True,True,True,6196,6196,0,3806,2390,4881,1315,"(6196, 10240)",0,0,"(6196, 96)",0,0,"(6196, 10336)",0,0,True,True,True,6196,10240,10240,0,96,96,0,10336,10336,0
+prot_bert,True,True,True,True,True,6196,6196,0,3806,2390,4881,1315,"(6196, 4096)",0,0,"(6196, 96)",0,0,"(6196, 4192)",0,0,True,True,True,6196,4096,4096,0,96,96,0,4192,4192,0
+prot_bert_bfd,True,True,True,True,True,6196,6196,0,3806,2390,4881,1315,"(6196, 4096)",0,0,"(6196, 96)",0,0,"(6196, 4192)",0,0,True,True,True,6196,4096,4096,0,96,96,0,4192,4192,0

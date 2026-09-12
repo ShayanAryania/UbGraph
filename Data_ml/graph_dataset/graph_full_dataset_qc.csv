@@ -1,0 +1,2 @@
+n_nodes,node_feature_shape,n_interaction_edges,n_ppi_edges,n_colocalization_edges,n_coexpression_edges,n_all_edges,n_positive_labeled_edges,n_negative_labeled_edges,missing_node_embeddings,duplicate_labeled_pair_id
+2105,"(2105, 1280)",6196,60723,193159,0,260078,3806,2390,0,0

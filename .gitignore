@@ -1,0 +1,51 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Jupyter and Python temporary files
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Virtual environments and secrets
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+
+# Raw and intermediate third-party data
+Data_raw/
+Data_interim/
+
+# Large protein embeddings
+Data_feat/
+
+# Large pair-feature matrices
+Data_ml/pair_features/
+*.parquet
+
+# Neural checkpoints and generated datasets
+Data_ml/neural/checkpoints/
+Data_ml/neural/datasets/
+Data_ml/neural/predictions/
+*.pt
+*.pth
+*.ckpt
+
+# Large candidate-space files
+Data_ml/graph_dataset/day16_novel_predictions/novel_candidate_space_hgt_scored.csv
+Data_ml/graph_dataset/day16_novel_predictions/novel_candidate_space_unscored.csv
+
+# Common temporary files
+*.tmp
+*.temp
+*.swp
+*~

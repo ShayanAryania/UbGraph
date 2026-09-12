@@ -1,0 +1,8 @@
+model,n_required_proteins,n_ok,n_missing,coverage
+esm2_t6_8M_UR50D,2105,2105,0,1.0
+esm2_t12_35M_UR50D,2105,2105,0,1.0
+esm2_t30_150M_UR50D,2105,2105,0,1.0
+esm2_t33_650M_UR50D,2105,2105,0,1.0
+esm2_t36_3B_UR50D,2105,2105,0,1.0
+prot_bert,2105,2105,0,1.0
+prot_bert_bfd,2105,2105,0,1.0

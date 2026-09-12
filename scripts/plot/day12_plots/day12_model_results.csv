@@ -1,0 +1,17 @@
+Model,ROC_AUC,PR_AUC
+"Best Pair-level
+Soft Voting",0.782,0.86
+GraphSAGE,0.8218,0.8783
+GAT,0.713,0.7915
+HeteroGraphSAGE,0.8458,0.9005
+HeteroGAT,0.8191,0.871
+"Edge-Aware
+HeteroGNN",0.8554,0.9062
+HGT,0.8613,0.9103
+"GraphSAGE + XGB + NN
+Weighted Ensemble",0.8317,0.8897
+"GraphSAGE + XGB + NN
+Stacking",0.8314,0.8893
+"HGT + EdgeAware + HeteroSAGE
+Weighted Ensemble",0.8716,0.9195
+Mega Stacking,0.8682,0.9162

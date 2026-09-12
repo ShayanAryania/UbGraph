@@ -1,0 +1,6 @@
+metric,known_interaction_rate
+Top50,100.0
+Top100,100.0
+Top200,99.0
+Top500,98.6
+Top1000,97.5

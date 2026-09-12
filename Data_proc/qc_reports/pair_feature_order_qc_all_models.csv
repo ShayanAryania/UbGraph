@@ -1,0 +1,8 @@
+model,same_pair_order_as_reference,same_labels_as_reference,same_groups_as_reference,n_rows
+esm2_t6_8M_UR50D,True,True,True,6196
+esm2_t12_35M_UR50D,True,True,True,6196
+esm2_t30_150M_UR50D,True,True,True,6196
+esm2_t33_650M_UR50D,True,True,True,6196
+esm2_t36_3B_UR50D,True,True,True,6196
+prot_bert,True,True,True,6196
+prot_bert_bfd,True,True,True,6196

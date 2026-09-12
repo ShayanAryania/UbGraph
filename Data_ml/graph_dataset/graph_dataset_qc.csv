@@ -1,0 +1,2 @@
+n_nodes,n_interaction_edges,n_positive_edges,n_negative_edges,n_unique_src,n_unique_dst,node_feature_shape,missing_node_embeddings,duplicate_pair_id
+2105,6196,3806,2390,497,1788,"(2105, 1280)",0,0

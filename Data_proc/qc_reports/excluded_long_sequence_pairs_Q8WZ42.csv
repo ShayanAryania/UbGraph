@@ -1,0 +1,2 @@
+pair_id,group_id,enzyme_class,enz_ac,sub_ac,enz_gene,sub_gene,enzyme_type,label,source,pmid,enz_gene_norm,sub_gene_norm,gene_pair_key,ppi_physical_flag,enz_compartments,sub_compartments,shared_compartments,has_enz_loc,has_sub_loc,coloc_flag,scrna_has_both_genes_crc,scrna_has_both_genes_lihc,scrna_coexpr_crc,scrna_coexpr_lihc,scrna_coexpr_flag,scrna_max_min_expr,scrna_best_cancer,scrna_best_celltype
+E3|Q86TM6|Q8WZ42,E3|Q86TM6,E3,Q86TM6,Q8WZ42,SYVN1,TTN,RING,1,UbiBrowser2,17141218,,,,,,,,,,,,,,,,,,

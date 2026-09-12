@@ -1,0 +1,4 @@
+dataset,n_rows,n_unique_pair_id,n_duplicate_pair_id_rows,n_unique_group_id,n_unique_enz_ac,n_unique_sub_ac,n_missing_enzyme_class,n_missing_enz_ac,n_missing_sub_ac,n_missing_enz_gene,n_missing_sub_gene,n_pair_id_starts_with_nan,n_label_0,n_label_1,n_E3,n_DUB
+positive_final,3835,3835,0,508,503,1790,0,0,0,1,2,0,0,3835,2967,868
+negative_final,2446,2446,0,442,438,1084,0,0,0,2,10,0,2446,0,1999,447
+pairs_all_final,6281,6281,0,508,503,1790,0,0,0,3,12,0,2446,3835,4966,1315

@@ -1,0 +1,6 @@
+Item,Value
+Highest canonical case probability,0.9963
+Top canonical case,USP10 -> TP53
+Top novel explainability case,USP15→TNFAIP3
+Top GI biological candidate,USP15→HSP90AA1
+Dominant pathway in top GI cases,stress_autophagy

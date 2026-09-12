@@ -1,0 +1,4 @@
+dataset,n_required,n_fasta_ok,n_missing,n_bad,coverage_fraction,mean_length_ok,median_length_ok
+all_required_accessions,2106,2106,0,0,1.0,694.1756885090218,521.0
+required_enzymes,497,497,0,0,1.0,704.9215291750503,552.0
+required_substrates,1789,1789,0,0,1.0,694.5667970933482,519.0

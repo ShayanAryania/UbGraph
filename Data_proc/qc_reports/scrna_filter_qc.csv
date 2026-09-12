@@ -1,0 +1,4 @@
+dataset,n_before,n_removed_by_scrna,n_after,removed_fraction,n_after_unique_pair_id,n_after_duplicate_pair_id_rows,n_after_missing_enzyme_class,n_after_missing_enz_ac,n_after_missing_sub_ac,n_after_pair_id_starts_with_nan,n_after_label_0,n_removed_crc,n_removed_lihc,n_after_has_both_genes_crc,n_after_has_both_genes_lihc
+E3_negative_after_ppi_loc_scrna,2009,10,1999,0.004977600796416127,1999,0,0,0,0,0,1999,8,4,1655,1645
+DUB_negative_after_ppi_loc_scrna,449,2,447,0.004454342984409799,447,0,0,0,0,0,447,1,1,441,433
+ALL_negative_after_ppi_loc_scrna,2458,12,2446,0.004882017900732303,2446,0,0,0,0,0,2446,9,5,2096,2078

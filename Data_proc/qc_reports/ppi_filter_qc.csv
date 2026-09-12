@@ -1,0 +1,4 @@
+dataset,n_before,n_removed_by_ppi,n_after,removed_fraction,n_after_unique_pair_id,n_after_duplicate_pair_id_rows,n_after_missing_enzyme_class,n_after_missing_enz_ac,n_after_missing_sub_ac,n_after_pair_id_starts_with_nan,n_removed_unique_gene_pair_key
+E3_negative_after_ppi,5934,311,5623,0.05240984159083249,5623,0,0,0,0,0,310
+DUB_negative_after_ppi,1736,124,1612,0.07142857142857142,1612,0,0,0,0,0,124
+ALL_negative_after_ppi,7670,435,7235,0.056714471968709254,7235,0,0,0,0,0,431

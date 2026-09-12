@@ -1,0 +1,2 @@
+n_uniprot_rows,n_raw_localization_rows,n_normalized_localization_rows,n_unique_proteins_raw_loc,n_unique_proteins_normalized_loc,n_unique_compartments
+20420,52535,58836,17254,17149,15

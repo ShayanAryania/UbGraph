@@ -1,0 +1,5 @@
+fusion_name,models,n_pairs,n_features,n_positive,n_negative,nan_count,inf_count,duplicate_feature_cols,n_unique_pair_id,n_duplicate_pair_id
+esm650__protbert_bfd,esm2_t33_650M_UR50D;prot_bert_bfd,6196,9408,3806,2390,0,0,0,6196,0
+esm3b__protbert_bfd,esm2_t36_3B_UR50D;prot_bert_bfd,6196,14528,3806,2390,0,0,0,6196,0
+esm650__esm3b,esm2_t33_650M_UR50D;esm2_t36_3B_UR50D,6196,15552,3806,2390,0,0,0,6196,0
+esm650__esm3b__protbert_bfd,esm2_t33_650M_UR50D;esm2_t36_3B_UR50D;prot_bert_bfd,6196,19744,3806,2390,0,0,0,6196,0

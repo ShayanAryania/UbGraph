@@ -1,0 +1,2 @@
+old_accession,new_accession,gene,n_affected_pairs,reason
+P08107,P0DMV8,HSPA1A,3,P08107 returned empty FASTA; replaced with UniProt primary HSPA1A entry from gene search.

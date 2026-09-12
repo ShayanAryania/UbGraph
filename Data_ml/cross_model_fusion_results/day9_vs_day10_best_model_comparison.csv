@@ -1,0 +1,3 @@
+stage,name,roc_auc_mean,pr_auc_mean,f1_mean,brier_mean,delta_pr_auc_vs_day9,delta_roc_auc_vs_day9
+best_day9_single_model,esm2_t36_3B_UR50D | fusion | xgboost,0.7594059217930198,0.8463114032143025,0.7561574664236483,0.2153503508067328,0.0,0.0
+best_day10_cross_model_fusion,esm650__esm3b__protbert_bfd | xgboost,0.7658859023185329,0.8500344872681099,0.7676695433232358,0.21172698232182122,0.0037230840538073906,0.006479980525513129

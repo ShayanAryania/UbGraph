@@ -1,0 +1,6 @@
+Item,Value
+Scored candidate space,">3,787,000,000 pairs"
+Top novel predictions considered,500
+"Highest HGT probability, Top500",0.9949
+Dominant enzyme in Top500,USP15 (DUB)
+Top explainability-informed priority candidate,USP15→TNFAIP3 (score = 1.005)

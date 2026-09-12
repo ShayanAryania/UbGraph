@@ -1,0 +1,9 @@
+step,E3,DUB
+"Initial
+2x negatives",5934,1736
+"After PPI
+filter",5623,1612
+"After localization
+filter",2009,449
+"After scRNA
+filter",1999,447

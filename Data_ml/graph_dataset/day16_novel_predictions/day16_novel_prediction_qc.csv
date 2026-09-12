@@ -1,0 +1,2 @@
+n_e3_nodes,n_dub_nodes,n_substrate_nodes,n_all_candidates,n_known_removed,n_novel_candidates,top50_min_prob,top100_min_prob,top500_min_prob
+414,83,1788,888456,6052,882404,0.9948101,0.99476606,0.99457914

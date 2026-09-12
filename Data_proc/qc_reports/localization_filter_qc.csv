@@ -1,0 +1,4 @@
+dataset,n_before,n_removed_by_loc,n_after,removed_fraction,n_after_unique_pair_id,n_after_duplicate_pair_id_rows,n_after_missing_enzyme_class,n_after_missing_enz_ac,n_after_missing_sub_ac,n_after_pair_id_starts_with_nan,n_after_label_0,n_removed_unique_shared_compartment_patterns,n_after_without_enz_loc,n_after_without_sub_loc
+E3_negative_after_ppi_loc,5623,3614,2009,0.6427174106348924,2009,0,0,0,0,0,2009,74,418,384
+DUB_negative_after_ppi_loc,1612,1163,449,0.7214640198511166,449,0,0,0,0,0,449,35,72,64
+ALL_negative_after_ppi_loc,7235,4777,2458,0.6602626123013131,2458,0,0,0,0,0,2458,79,490,448

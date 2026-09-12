@@ -1,0 +1,4 @@
+dataset,n_rows,n_unique_pair_id,n_duplicate_pair_id_rows,n_unique_group_id,n_unique_enz_ac,n_unique_sub_ac,n_missing_enzyme_class,n_missing_enz_ac,n_missing_sub_ac,n_missing_enz_gene,n_missing_sub_gene,n_missing_enzyme_type,n_missing_pmid
+E3_positive,2967,2967,0,420,420,1621,2967,0,0,1,2,0,0
+DUB_positive,868,868,0,88,88,489,868,0,0,0,0,0,0
+ALL_positive_fixed,3835,3835,0,508,503,1790,0,0,0,1,2,0,0

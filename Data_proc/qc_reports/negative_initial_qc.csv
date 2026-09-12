@@ -1,0 +1,4 @@
+dataset,n_rows,n_unique_pair_id,n_duplicate_pair_id_rows,n_unique_group_id,n_unique_enz_ac,n_unique_sub_ac,n_missing_enzyme_class,n_missing_enz_ac,n_missing_sub_ac,n_pair_id_starts_with_nan,n_label_0,n_conflict_with_positive
+E3_negative_initial_2x,5934,5934,0,420,420,1589,0,0,0,0,5934,0
+DUB_negative_initial_2x,1736,1736,0,88,88,478,0,0,0,0,1736,0
+ALL_negative_initial_2x,7670,7670,0,508,503,1760,0,0,0,0,7670,0

@@ -1,0 +1,11 @@
+interaction,probability,validation_status
+MDM2 -> TP53,0.994854,Validated
+USP7 -> TP53,0.9948,Validated
+USP10 -> TP53,0.996288,Validated
+STUB1 -> TP53,0.996063,Validated
+CYLD -> TP53,0.995988,Validated
+VHL -> HIF1A,0.99367,Validated
+CBL -> EGFR,0.992932,Validated
+BTRC -> CTNNB1,0.994144,Validated
+ITCH -> NOTCH1,0.995992,Validated
+ITCH -> DVL2,0.996119,Validated

@@ -1,0 +1,2 @@
+n_original_pairs,n_excluded_compound_or_suspicious,n_model_ready_pairs,n_model_ready_positive,n_model_ready_negative,n_model_ready_E3,n_model_ready_DUB,n_required_enzymes_model,n_required_substrates_model,n_required_accessions_model
+6281,84,6197,3807,2390,4882,1315,497,1789,2106

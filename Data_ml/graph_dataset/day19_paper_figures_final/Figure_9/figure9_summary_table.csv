@@ -1,0 +1,8 @@
+Item,Value
+GI priority candidates,198
+Shared CRC/LIHC candidates,92
+CRC-specific candidates,8
+LIHC-specific candidates,8
+Dominant GI enzyme,USP15
+Dominant driver pathway,cell_cycle
+Top GI priority pair,USP15→HSP90AA1
