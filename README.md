@@ -309,3 +309,12 @@ Biochemistry and Chemical Biology Research Laboratory
 Chemistry Department
 Sharif University of Technology, Tehran, Iran
 Email: kalhor@sharif.edu
+
+## License
+
+The original source code in this repository is licensed under the MIT License.
+See the `LICENSE` file for details.
+
+Third-party source data are not covered by the MIT License. Users must comply
+with the terms and citation requirements of UbiBrowser, BioGRID, UniProt, and
+TISCH2 when obtaining or reusing data from those resources.
